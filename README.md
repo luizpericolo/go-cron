@@ -1,5 +1,5 @@
 # go-cron
-A golang CLI application to help management of cron tasks
+A golang cli application to help management of cron tasks. It uses [urfave's cli](https://github.com/urfave/cli) library to aid in creating and parsing parameters for all the cli commands.
 
 ## Instalation
 
